@@ -1,0 +1,19 @@
+{
+  "name": "Kage Sling",
+  "short_name": "Kage Sling",
+  "description": "2D physics ninja slingshot demolition game with realistic gravity, collision physics, sound effects, and leaderboards.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0e111d",
+  "theme_color": "#141829",
+  "categories": ["games", "action"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

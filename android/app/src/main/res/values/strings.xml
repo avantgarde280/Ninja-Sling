@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kage Sling</string>
+    <!-- Replace with your Google Play Console Game Services Project ID -->
+    <string name="game_services_project_id">000000000000</string>
+    <string name="leaderboard_campaign_total">CgkI_kage_sling_campaign_total</string>
+    <string name="achievement_first_strike">CgkI_kage_sling_first_strike</string>
+    <string name="achievement_shogun_vanquished">CgkI_kage_sling_shogun_vanquished</string>
+</resources>

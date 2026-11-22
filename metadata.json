@@ -1,0 +1,6 @@
+{
+  "name": "Kage Sling",
+  "description": "2D physics ninja slingshot demolition game with realistic gravity, rigid-body destruction, six handcrafted fortress stages, procedural Web Audio SFX, Android touch optimization, and Play Games leaderboard & cloud save sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
